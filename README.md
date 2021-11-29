@@ -1,4 +1,4 @@
-# out-of-the-abyss
+/* out-of-the-abyss */
 
 #include <bits/stdc++.h>
 #include <time.h>
